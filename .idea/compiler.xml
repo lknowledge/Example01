@@ -7,12 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="gmall-user-manage" />
+        <module name="gmall-interface" />
         <module name="gmall-bean" />
         <module name="order-web" />
-        <module name="gmall-service-util" />
         <module name="gmall-common-util" />
         <module name="gmall-web-util" />
-        <module name="gmall-interface" />
+        <module name="gmall-service-util" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
